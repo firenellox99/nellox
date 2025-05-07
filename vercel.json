@@ -7,7 +7,7 @@
     }
   ],
   "env": {
-    "API_PASSWORD": "la_tua_password",
+    "API_PASSWORD": "123",
     "TRANSPORT_ROUTES": "{\"all://*.ichigotv.net\":{\"verify_ssl\":false},\"all://ichigotv.net\":{\"verify_ssl\":false}}"
   }
 }
